@@ -1,5 +1,5 @@
 const TestComponent = () => {
-  return <p><b>Another test component</b></p>
+  return <p><b>WELCOME TO MY REACT APP</b></p>
 }
 
 export default TestComponent;
